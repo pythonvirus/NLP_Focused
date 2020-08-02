@@ -1,0 +1,39 @@
+
+1) XLnet : 
+
+XLnet pdf :
+https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1
+
+
+https://arxiv.org/pdf/1906.08237.pdf
+
+XLnet github link :
+https://github.com/zihangdai/xlnet
+
+XLnet blog : 
+https://nonint.com/2020/03/27/fine-tuning-xlnet-for-generation-tasks/  
+
+XLnet kaggle:
+https://www.kaggle.com/pemagrg/text-summarization-using-bert-gpt2-xlnet 
+  
+########################
+
+2) Rouge - Metric : 
+
+Rouge - Paper
+https://www.aclweb.org/anthology/W04-1013.pdf
+
+Rouge Blog : 
+https://kavita-ganesan.com/what-is-rouge-and-how-it-works-for-evaluation-of-summaries/#.XxFGUm0zapp
+
+######
+
+3) Accuracy Comparision : 
+
+GPT, BERT, XLnet, ROBERTA, ALBERT
+
+https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html
+
+Electra : 
+
+https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html

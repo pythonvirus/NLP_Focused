@@ -1,0 +1,8 @@
+•	http://jalammar.github.io/illustrated-bert/
+•	 https://huggingface.co/transformers/model_doc/albert.html
+•	https://towardsdatascience.com/transformers-141e32e69591
+•	https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/
+•	https://towardsdatascience.com/breaking-bert-down-430461f60efb
+•	https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54
+•	https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/
+•	https://www.analyticsvidhya.com/blog/2019/07/openai-gpt2-text-generator-python/

@@ -1,0 +1,15 @@
+Video link:
+https://www.youtube.com/watch?v=Axo0EtMUK90
+
+
+Research Peper for T5 model:
+https://arxiv.org/pdf/1910.10683.pdf
+https://arxiv.org/abs/1706.03762
+
+
+
+Model Details:
+https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html
+https://github.com/google-research/text-to-text-transfer-transformer
+
+https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html

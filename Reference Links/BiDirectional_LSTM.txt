@@ -1,0 +1,4 @@
+https://www.i2tutorials.com/technology/deep-dive-into-bidirectional-lstm/
+
+https://www.analyticsvidhya.com/blog/2018/04/replicating-human-memory-structures-in-neural-networks-to-create-precise-nlu-algorithms/
+
