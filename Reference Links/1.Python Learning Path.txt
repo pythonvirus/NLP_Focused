@@ -1,0 +1,12 @@
+Python Datastructure
+https://www.datacamp.com/community/tutorials/data-structures-python
+
+Python programming
+https://www.programiz.com/python-programming/variables-datatypes
+
+Regex tutorial
+https://www.machinelearningplus.com/python/python-regex-tutorial-examples/
+
+Visulization:-
+https://www.dataquest.io/blog/matplotlib-tutorial/
+https://www.kaggle.com/kanncaa1/seaborn-tutorial-for-beginners

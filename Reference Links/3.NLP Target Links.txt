@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=OvzJiur55vo&list=PLVNY1HnUlO27T2H_KspAKembHX_ru0Ha1&index=6--Deep Learning NLP.---Completed.
+
+https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/
+
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/(Understanding of LSTM).
+
+https://www.youtube.com/watch?v=9JfGxKkmBc0
+
+https://www.youtube.com/watch?v=0EtD5ybnh_s
+
+https://www.youtube.com/watch?v=sqDHBH9IjRU
+
