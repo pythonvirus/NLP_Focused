@@ -23,20 +23,21 @@ for i in range(0, len(messages)):
     review = review.lower()
     review = review.split()
     
-    '''review = [ps.stem(word) for word in review if not word in stopwords.words('english')]'''
+    review = [ps.stem(word) for word in review if not word in stopwords.words('english')]
     
-    review = [wordnet.lemmatize(word) for word in review if not word in stopwords.words('english')]
+    '''review = [wordnet.lemmatize(word) for word in review if not word in stopwords.words('english')]'''
     review = ' '.join(review)
     corpus.append(review)
     
     
 # Creating the Bag of Words model
-from sklearn.feature_extraction.text import CountVectorizer,TfidfVectorizer
-#cv = CountVectorizer(max_features=2500)
-#X = cv.fit_transform(corpus).toarray()
-
-cv = TfidfVectorizer(max_features=1500)
+from sklearn.feature_extraction.text import CountVectorizer
+#,TfidfVectorizer
+cv = CountVectorizer(max_features=200)
 X = cv.fit_transform(corpus).toarray()
+
+#cv = TfidfVectorizer(max_features=1500)
+#X = cv.fit_transform(corpus).toarray()
 
 
 
@@ -57,11 +58,12 @@ spam_detect_model = MultinomialNB().fit(X_train, y_train)
 
 y_pred=spam_detect_model.predict(X_test)
 
-from sklearn.metrics import confusion_matrix,accuracy_score
+from sklearn.metrics import confusion_matrix,accuracy_score,recall_score,precision_score
 
 confusion_m=confusion_matrix(y_test,y_pred)
 accuracy=accuracy_score(y_test,y_pred) #0.98 with Stemming
-
+recall_score=recall_score(y_test,y_pred)
+precision_score=precision_score(y_test,y_pred)
 #0.9829 accuracy with lemitization has taken time
 
 #Try TF-IDF with 1500 features accuracy 0.9811

@@ -1,0 +1,25 @@
+0. Before Recent research---> BPE(Bypte pair encoding) in 2016 by Rico Sennrich and Barry Haddow and Alexandra Birch of School of Informatics, University of Edinburgh
+
+1.	When developed----29th April 2018 Taku Kudo@Google has introduced Sub word embedding (unigram encoding)#Sub word regularization
+2.	Why
+3.	What (High level overview)
+4.	How(Architecture internal working functionality)
+5.	Where we should use. Used in NMT(neural Machine translation) model
+6.	Where we should not use.
+
+
+Referenced Links:-
+Different subword Embeddings--
+https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
+
+BERT-WordPiece embedding
+https://www.youtube.com/watch?v=zJW57aCBCTk
+
+
+University--- 3 gram
+
+uni ver sit ity   Uni ##ver ##sit ##ity
+
+geology....
+
+geo logy or ge ol og y
